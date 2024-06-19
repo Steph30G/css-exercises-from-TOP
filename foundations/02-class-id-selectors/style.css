@@ -3,17 +3,16 @@
     background-color: rgb(255, 182, 193)
 }
 
-.cooler,
-#Id4 {
+.cooler {
     font-size: 24px;
 }
 
 #Id2 {
-    color:rgb(0, 0, 255);
+    color: #0000ff;
     font-size: 36px;
 }
 
 #Id4 {
-    background-color: rgb(144, 238, 144);
+    background-color: hsl(120,73%,75%);
     font-weight: bold;
 }
